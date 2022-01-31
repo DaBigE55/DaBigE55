@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaBigE55
 - 👀 Currently I’m interested in securing networks, Linux and Python
 - 🌱 I’m currently learning to get the Comptia Network + certification, Python coding and installing and maintaining Linux distros
-- 💞️ I’m right now looking to collaborate on with people to connect me with resoources to learn and grow my skills 
+- 💞️ I’m right now looking to collaborate on connecting with people and resources to learn and grow my skills.
 - 📫 How to reach me on discord Da_Big_E#4234
 
 <!---
